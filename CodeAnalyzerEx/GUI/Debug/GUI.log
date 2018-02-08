@@ -1,0 +1,139 @@
+﻿  Window.cpp
+k:\ood\proj2\codeanalyzerex\gui\window.h(80): error C2871: 'System': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(81): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(81): error C2871: 'Text': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(82): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(82): error C2871: 'Windows': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(83): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(83): error C2871: 'Input': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(84): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(84): error C2871: 'Markup': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(85): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(85): error C2871: 'Media': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(86): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(86): error C2871: 'Controls': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(87): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(87): error C2871: 'Primitives': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(88): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(88): error C2871: 'Threading': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(89): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(89): error C2871: 'Tasks': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(90): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(90): error C2871: 'Threading': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(91): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(91): error C2871: 'ComponentModel': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(92): error C2653: 'System': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(92): error C2871: 'Generic': a namespace with this name does not exist
+k:\ood\proj2\codeanalyzerex\gui\window.h(101): error C2061: syntax error: identifier 'ref'
+k:\ood\proj2\codeanalyzerex\gui\window.h(101): error C2143: syntax error: missing ';' before '{'
+k:\ood\proj2\codeanalyzerex\gui\window.h(101): error C2447: '{': missing function header (old-style formal list?)
+k:\ood\proj2\codeanalyzerex\gui\window.h(117): error C2143: syntax error: missing ';' before '<class-head>'
+k:\ood\proj2\codeanalyzerex\gui\window.h(117): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(118): error C2504: 'Window': base class undefined
+k:\ood\proj2\codeanalyzerex\gui\window.h(121): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(121): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(121): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(122): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(122): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(122): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(123): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(123): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(123): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(124): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(124): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(124): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(125): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(125): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(125): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(126): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(126): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(126): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(127): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(127): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(127): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(128): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(128): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(128): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(129): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(129): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(129): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(133): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(133): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(133): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(134): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(134): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(134): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(135): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(135): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(135): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(136): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(136): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(136): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(138): error C2653: 'Forms': is not a class or namespace name
+k:\ood\proj2\codeanalyzerex\gui\window.h(138): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(138): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(138): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(139): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(139): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(139): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(143): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(143): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(143): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(144): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(144): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(144): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(145): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(145): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(145): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(146): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(146): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(146): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(147): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(147): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(147): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(148): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(148): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(148): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(149): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(149): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(149): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(150): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(150): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(151): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(151): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(151): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(152): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(152): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(152): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(153): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(153): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(153): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(154): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(154): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(154): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(155): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(155): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(155): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(156): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(156): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(156): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(157): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(157): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(157): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(158): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(158): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(158): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(159): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(159): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(159): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(160): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(160): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(161): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(161): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(161): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(162): error C2143: syntax error: missing ';' before '^'
+k:\ood\proj2\codeanalyzerex\gui\window.h(162): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+k:\ood\proj2\codeanalyzerex\gui\window.h(162): error C2238: unexpected token(s) preceding ';'
+k:\ood\proj2\codeanalyzerex\gui\window.h(162): fatal error C1003: error count exceeds 100; stopping compilation

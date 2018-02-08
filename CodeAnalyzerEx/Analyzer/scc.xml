@@ -1,0 +1,21 @@
+
+  <StronglyConnectedComponents>
+    <SCC Name="SCC1">
+      <File>
+        K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.h
+      </File>
+    </SCC>
+    <SCC Name="SCC2">
+      <File>
+        K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.cpp
+      </File>
+      <File>
+        K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.h
+      </File>
+    </SCC>
+    <SCC Name="SCC3">
+      <File>
+        K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.cpp
+      </File>
+    </SCC>
+  </StronglyConnectedComponents>

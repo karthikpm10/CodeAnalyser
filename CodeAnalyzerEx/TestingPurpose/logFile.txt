@@ -1,0 +1,47 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Sun Mar  5 01:39:26 2017
+     Path: "K:\OOD\Proj2\CodeAnalyzerEx\TestingPurpose"
+     Args: *.h, *.cpp, *.cs, /m, /f, /r
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      14
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                       A.h    function                     globalFunction       1       2       1
+                       A.h   namespace                              first       3      21       6
+                       A.h       class                            MyClass       5       4       2
+                       A.h    function                              func1       8       2       1
+                       A.h   namespace                             second      10      12       2
+                       A.h       class                       secNameClass      12       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                     A.cpp    function                    insideClassFunc       9       3       1
+                     A.cpp    function                               main       2       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                       B.h       class                           MyClass2      10       8       3
+                       B.h    function                           MyClass2      21       2       1
+                       B.h    function                          ~MyClass2      25       1       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                     B.cpp    function                               main       2       4       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     9 dirs
+   processed     4 files

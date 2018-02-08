@@ -1,0 +1,64 @@
+
+  <StronglyConnectedComponents>
+    <SCC Name="SCC9">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.cpp
+      </File>
+    </SCC>
+    <SCC Name="SCC1">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.h
+      </File>
+    </SCC>
+    <SCC Name="SCC2">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElementParts\itokcollection.h
+      </File>
+    </SCC>
+    <SCC Name="SCC3">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElementParts\Tokenizer.h
+      </File>
+    </SCC>
+    <SCC Name="SCC4">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.h
+      </File>
+    </SCC>
+    <SCC Name="SCC5">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.cpp
+      </File>
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlDocument\XmlDocument.h
+      </File>
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.h
+      </File>
+    </SCC>
+    <SCC Name="SCC6">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.h
+      </File>
+    </SCC>
+    <SCC Name="SCC7">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\Utilities\Utilities.cpp
+      </File>
+    </SCC>
+    <SCC Name="SCC8">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElement\XmlElement.cpp
+      </File>
+    </SCC>
+    <SCC Name="SCC10">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlElementParts\xmlElementParts.cpp
+      </File>
+    </SCC>
+    <SCC Name="SCC11">
+      <File>
+        K:\OOD\Proj2\CodeAnalyzerEx\XmlDocument\XmlParser\XmlParser.cpp
+      </File>
+    </SCC>
+  </StronglyConnectedComponents>

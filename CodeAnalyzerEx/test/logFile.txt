@@ -1,0 +1,99 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Sun Mar  5 22:20:47 2017
+     Path: "K:\OOD\Proj2\CodeAnalyzerEx\test"
+     Args: *.h, *.cpp, *.cs, /m, /f, /r
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      31
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                     ast.h      struct                    DeclarationNode      72       7       1
+              public data: Scanner :: ITokCollection * pTc = nullptr ; 
+              public data: Access access_ ; 
+              public data: DeclType declType_ ; 
+              public data: std :: string package_ ; 
+              public data: size_t line_ ; 
+                     ast.h      struct                            ASTNode      81      22       7
+              public data: Type type_ ; 
+              public data: Type parentType_ ; 
+              public data: Name name_ ; 
+              public data: Package package_ ; 
+              public data: Path path_ ; 
+              public data: size_t startLineCount_ ; 
+              public data: size_t endLineCount_ ; 
+              public data: size_t complexity_ ; 
+              public data: std :: vector < ASTNode * > children_ ; 
+              public data: std :: vector < DeclarationNode > decl_ ; 
+              public data: std :: vector < Scanner :: ITokCollection * > statements_ ; 
+                     ast.h       class                       AbstrSynTree     106      17       9
+                     ast.h    function                            ASTWalk     127      12       2
+                     ast.h    function                    ASTWalkNoIndent     143       9       2
+                     ast.h    function                     complexityWalk     155      10       2
+                     ast.h    function                     complexityEval     168       4       1
+                     ast.h      struct                             foobar     174       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   ast.cpp    function                            ASTNode      19       2       1
+                   ast.cpp    function                            ASTNode      24       2       1
+                   ast.cpp    function                           ~ASTNode      30      10       2
+                   ast.cpp    function                               show      43      21       2
+                   ast.cpp    function                       AbstrSynTree      70       6       1
+                   ast.cpp    function                      ~AbstrSynTree      83       3       1
+                   ast.cpp    function                               root      89       3       1
+                   ast.cpp    function                            typeMap      97       3       1
+                   ast.cpp    function                                add     106       7       1
+                   ast.cpp    function                                pop     119       3       1
+                   ast.cpp    function                               find     127       8       2
+                   ast.cpp    function                               main     149      36       2
+                   ast.cpp    function                               void     168       2       1
+                   ast.cpp    function                               junk     187       3       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: ast.h : 73 - struct DeclarationNode
+                Scanner :: ITokCollection * pTc = nullptr ; 
+              public data: ast.h : 74 - struct DeclarationNode
+                Access access_ ; 
+              public data: ast.h : 75 - struct DeclarationNode
+                DeclType declType_ ; 
+              public data: ast.h : 76 - struct DeclarationNode
+                std :: string package_ ; 
+              public data: ast.h : 77 - struct DeclarationNode
+                size_t line_ ; 
+              public data: ast.h : 90 - struct ASTNode
+                Type type_ ; 
+              public data: ast.h : 91 - struct ASTNode
+                Type parentType_ ; 
+              public data: ast.h : 92 - struct ASTNode
+                Name name_ ; 
+              public data: ast.h : 93 - struct ASTNode
+                Package package_ ; 
+              public data: ast.h : 94 - struct ASTNode
+                Path path_ ; 
+              public data: ast.h : 95 - struct ASTNode
+                size_t startLineCount_ ; 
+              public data: ast.h : 96 - struct ASTNode
+                size_t endLineCount_ ; 
+              public data: ast.h : 97 - struct ASTNode
+                size_t complexity_ ; 
+              public data: ast.h : 98 - struct ASTNode
+                std :: vector < ASTNode * > children_ ; 
+              public data: ast.h : 99 - struct ASTNode
+                std :: vector < DeclarationNode > decl_ ; 
+              public data: ast.h : 100 - struct ASTNode
+                std :: vector < Scanner :: ITokCollection * > statements_ ; 
+
+
+    searched     1 dirs
+   processed     2 files

@@ -1,0 +1,52 @@
+
+  <DB>
+    <Element Key="K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.h" name="DependencyTable" category="Files" description="DependencyTableFiles" timeDate="2017-03-07_20:12:15">
+      <Data>
+        DependentFiles
+      </Data>
+      <Children>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.h
+        </Child>
+      </Children>
+    </Element>
+    <Element Key="K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.h" name="DependencyTable" category="Files" description="DependencyTableFiles" timeDate="2017-03-07_20:12:15">
+      <Data>
+        DependentFiles
+      </Data>
+      <Children>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.cpp
+        </Child>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.h
+        </Child>
+      </Children>
+    </Element>
+    <Element Key="K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.cpp" name="DependencyTable" category="Files" description="DependencyTableFiles" timeDate="2017-03-07_20:12:15">
+      <Data>
+        DependentFiles
+      </Data>
+      <Children>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.h
+        </Child>
+      </Children>
+    </Element>
+    <Element Key="K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.cpp" name="DependencyTable" category="Files" description="DependencyTableFiles" timeDate="2017-03-07_20:12:15">
+      <Data>
+        DependentFiles
+      </Data>
+      <Children>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.cpp
+        </Child>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\A.h
+        </Child>
+        <Child>
+          K:\OOD\Proj2\TestingPurpose\TestingPurpose\B.h
+        </Child>
+      </Children>
+    </Element>
+  </DB>
